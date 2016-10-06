@@ -5,7 +5,8 @@
 
 ### Sitio Web [Tablas de Multiplicar](tables)
 
-Este proyecto esta pensado para los estudiaantes de Basica Primaria. 
+Este proyecto esta pensado para los estudiantes de Basica Primaria.
+
 Especificamente los cursos de Segundo, Tercero, Cuarto y Quinto.
 
 
