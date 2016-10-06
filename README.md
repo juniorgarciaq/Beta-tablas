@@ -1,8 +1,7 @@
 # Proyecto de Grado 11 
 ===============
 
-WebSite
-#Sitio Web [Tablas de Multiplicar](tables),
+### Sitio Web [Tablas de Multiplicar](tables),
 
 ## Compilado de las Tablas de Multiplicar
 
